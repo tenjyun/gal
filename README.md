@@ -1,3 +1,3 @@
 # gal
 
-本仓库用于存放玩过的galgame的全CG存档
+本仓库用于存放一些 galgame 的体验感受
